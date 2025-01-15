@@ -52,4 +52,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmaahmed8&layout=compact&theme=radical)
 
-/*![Salma Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmaahmed8&show_icons=true&theme=radical)*/

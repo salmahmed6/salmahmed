@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salma Ahmed</h1>
-<h3 align="center">A passionate Backend Developer and aspiring MERN Full-Stack Developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer and aspiring Backend Expert</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmaahmed" alt="salmaahmed" /></a> </p>
 
-- 🔭 I’m currently working on **Ghazala Project** (Optimizing waste collection and recycling in Dabaa city)
-
-- 🌱 I’m currently learning **Express.js, Docker, and RESTful APIs**
-
 - 💬 Ask me about **Node.js, Express.js, and Backend Development**
 
-- 📫 How to reach me **salma.ahmed@example.com** *(replace with your actual email)*
-
-- ⚡ Fun fact **I love solving real-world problems using technology and simplifying complex systems!**
+- 📫 How to reach me **sa1963645@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

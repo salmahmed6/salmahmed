@@ -1,11 +1,5 @@
-<h1 align="left">Hi 👋, I'm Salma Ahmed</h1>
+<h1 align="left">Hi, I'm Salma</h1>
 <h3 align="left">A passionate Software Engineer and aspiring Backend Expert</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Saloma8_?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salmaahmed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/salma-ahmed-988880221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmaahmed" height="30" width="40" /></a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -56,5 +50,6 @@
 </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmahmed6&layout=compact&theme=radical)
+![Salma Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmahmed6&show_icons=true&theme=gruvbox)
+
 

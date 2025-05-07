@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Salma</h1>
-<h3 align="left">A passionate Software Engineer and aspiring Backend </h3>
+<h3 align="left">A passionate Software Engineer and aspiring Backend Expert </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
